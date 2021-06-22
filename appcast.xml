@@ -1,7 +1,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
 <title>ZDMPlugin</title>
-<link>http://ashung.github.io/Automate-Sketch/appcast.xml</link>
+<link>https://github.com/kiya77/ZDMSketchPlugin/blob/main/appcast.xml</link>
 <description>Make your workflow more efficient.</description>
 <language>en</language>
 <item>
