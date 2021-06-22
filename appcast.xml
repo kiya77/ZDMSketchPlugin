@@ -9,7 +9,7 @@
 <description>
 <![CDATA[ Fix Auto Slice and Fast Slice bug.Add Select locked layers.Plugin menu language will same as Sketch language setting. ]]>
 </description>
-<enclosure url="https://github.com/kiya77/ZDMSketchPlugin/releases/download/v0.5.0/zdmplugin.sketchplugin.zip" sparkle:version="0.5.0" type="application/octet-stream"/>
+<enclosure url="https://github.com/kiya77/ZDMSketchPlugin/releases/download/V0.5.0/zdmplugin.sketchplugin.zip" sparkle:version="0.5.0" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
